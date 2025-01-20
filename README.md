@@ -52,10 +52,10 @@
 </head>
 <body>
 
-    <header><image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShupSwTqmIEpiIF_tERpK6Fqvo_iDXY2AR7w&s" width="90" height="56">
-        <h1>Chào mừng đến với Câu Lạc Bộ Trường LTT</h1>
+    <header> <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShupSwTqmIEpiIF_tERpK6Fqvo_iDXY2AR7w&s" width="90" height="56">
+        <h1>Chào mừng đến với Câu Lạc Bộ Trường LTT</h1></header>
         <p>Chúng tôi là nơi hội tụ của những người đam mê và sáng tạo!</p>
-    </header>
+   
 
     <nav>
         <a href="https://duong99gb.github.io/123/">CLB Nghệ Thuật</a>
@@ -75,8 +75,9 @@
                 <li>Tổ chức các hoạt động ngoại khóa như teambuilding, từ thiện...</li>
                 <li>Các cuộc thi và sự kiện giao lưu giữa các thành viên câu lạc bộ.</li>
             </ul><br><br>
-            <a href="https://duong99gb.github.io/1/"><button name="button" type="button"width="131" height="120">Đăng kí Ngay</button></a>
-    </nav>
+            <a href="https://duong99gb.github.io/1/">  
+            <button name="button" type="button">Đăng kí Ngay</button></a>
+   
 
         </div>
 
